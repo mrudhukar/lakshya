@@ -1725,3 +1725,34 @@ img#wpstats {
 		margin-left: 3.57142857rem;
 	}
 }
+/*Overrides*/
+body .site {
+	padding: 0;
+	max-width: 1280px;
+}
+
+body .site #main.wrapper{
+	padding: 0 2.857142857rem;
+}
+
+body .site header.site-header{
+	padding: 0 0 1.71429rem
+}
+
+body .site header.site-header hgroup{
+	padding: 1.71429rem 2.857142857rem;
+	background-color: rgb(192, 213, 155);
+}
+
+body .site footer#colophon{
+	padding: 1.71429rem 2.857142857rem;
+	background-color: rgb(192, 213, 155);
+	max-width: 1280px;
+}
+.main-navigation{
+	margin: 0;
+}
+
+.main-navigation ul.nav-menu, .main-navigation div.nav-menu > ul{
+	padding: 0 2.857142857rem;
+}
