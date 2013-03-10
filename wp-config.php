@@ -22,7 +22,7 @@ if (isset($_SERVER["DATABASE_URL"])) {
  define("DB_HOST", $db["host"]);
 }
 else {
-  define('DB_NAME', 'wordpress');
+  define('DB_NAME', 'lakshya');
   define('DB_USER', 'wordpress');
   define('DB_PASSWORD', 'nhSdQDNc');
   define('DB_HOST', 'localhost');
