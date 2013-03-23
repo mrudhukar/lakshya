@@ -44,6 +44,7 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
+/*TODO Make these as ENV variables so as to hide them in Github*/
 define('AUTH_KEY',         'i9@S$EVN34=SL#5kI?|5tXuvI~Aqb*G];@@8l%Jguw&|RHe+%_+dC~N;BVWINEwU');
 define('SECURE_AUTH_KEY',  'Fgb#7iCVd+x_vK!;0:spgsOJ8e|nb2TbPE3KOY5~t,-+ryzX8 kV7[hC0~UmSGN_');
 define('LOGGED_IN_KEY',    'b}[s uXDGmu>6NQk|n;|qhAoPT`+=`v(-@Ia,czK-9Xu7:y8+31WOaz>]5*Ah:5>');

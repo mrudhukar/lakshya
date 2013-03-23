@@ -2,6 +2,12 @@ lakshya
 =======
 
 
+Email
+===
+[Mailgun for WordPress](http://wordpress.org/extend/plugins/mailgun/) plugin is included in the repository allowing the use of mailgun for emails.
+
+1. Activate the plugin under 'Plugins', if not already activated.
+2. Input your Mailgun credentials in 'Settings'->'Mailgun'.
 
 Media Uploads
 ===
